@@ -1,5 +1,6 @@
 <div align="center">
   <h1 align="center">Hola, ¿Cómo estas?, soy Alex 👋</h1>
+  <img src="https://raw.githubusercontent.com/AlexRubenPumari/AlexRubenPumari/master/cover.png" />
 </div>
 
 ## 👤 Sobre mi
