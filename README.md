@@ -54,6 +54,14 @@ Soy un desarrollador frontend en el último año de mi tecnicatura, con una sól
       <p>
         Esta aplicación, desarrollada con React, HTML y SCSS, te permite gestionar tus tareas de forma sencilla y eficiente. Puedes agregar, editar, eliminar y marcar tareas como completadas.
       </p>
+<p>
+  <a href="https://alexrubenpumari.github.io/react-to-do-list/" target="_blank">
+    <img src="https://img.shields.io/badge/Probar-violet?style=for-the-badge&logo=rotaryinternational&logoColor=white&color=6f42c1&labelColor=6f42c1" alt="Probar">
+  </a>
+  <a href="https://github.com/AlexRubenPumari/react-to-do-list" target="_blank">
+    <img src="https://img.shields.io/badge/Código-violet?style=for-the-badge&logo=github&logoColor=white&color=6f42c1&labelColor=6f42c1" alt="Código">
+  </a>
+</p>
     </td>
     <td width="50%" align="center">
       <h3><a href="https://github.com/AlexRubenPumari/react-movie-api">Web de API de Películas</a></h3>
@@ -67,6 +75,14 @@ Soy un desarrollador frontend en el último año de mi tecnicatura, con una sól
       <p>
         Aplicación React que consume la API de TheMovieDB, con efectos de partículas de particles.js y optimización de peticiones con just-debounce-it. Estilizada con SCSS/Sass e incluye modo oscuro.
       </p>
+<p>
+  <a href="https://alexrubenpumari.github.io/react-movie-api/" target="_blank">
+    <img src="https://img.shields.io/badge/Probar-violet?style=for-the-badge&logo=rotaryinternational&logoColor=white&color=6f42c1&labelColor=6f42c1" alt="Probar">
+  </a>
+  <a href="https://github.com/AlexRubenPumari/react-movie-api" target="_blank">
+    <img src="https://img.shields.io/badge/Código-violet?style=for-the-badge&logo=github&logoColor=white&color=6f42c1&labelColor=6f42c1" alt="Código">
+  </a>
+</p>
     </td>
   </tr>
 </table>
