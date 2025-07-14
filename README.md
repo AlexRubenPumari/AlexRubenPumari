@@ -16,7 +16,15 @@
 </div>
 
 ## 👤 Sobre mi
-Soy un desarrollador frontend en el último año de mi tecnicatura, con una sólida pasión por la creación de interfaces de usuario modernas y atractivas. Esa es la razón, por mi enfoque en JavaScript y React, una librería de JS que me permite construir aplicaciones web dinámicas y muy interactivas.
+Hola, soy Alex Pumari, de La Matanza, Buenos Aires. Soy desarrollador frontend y estoy en el último año de la tecnicatura en Desarrollo y Análisis de Aplicaciones.
+<div>
+  <ul>
+  <li>💡 Tecnologías favoritas — JavaScript, React, TailwindCSS</li>
+  <li>📧 Correo de contacto — <a href="mailto:alexpumari0@gmail.com">alexpumari0@gmail.com</a></li>
+  <li>🌐 Portafolio web — www.alexpumaridev.com.ar</li>
+  <li>📚 Canal de YouTube — ¡Suscribite a <a href="https://www.youtube.com/@base_de_datos1">Álgebra Relacional</a>!</li>
+  </ul>
+</div>
 <br>
 
 ## 🛠️ Tecnologías que uso
