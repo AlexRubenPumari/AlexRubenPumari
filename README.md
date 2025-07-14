@@ -1,5 +1,17 @@
 <div align="center">
   <h1 align="center">Hola, ¿Cómo estas?, soy Alex 👋</h1>
+  <div>
+    <a href="mailto:alexpumari0@gmail.com">
+      <img src="https://img.shields.io/badge/Correo-orange?style=for-the-badge&logo=gmail&logoColor=white&color=ea4335&labelColor=ea4335" alt="Correo electrónico">
+    </a>
+   <a href="https://www.linkedin.com/in/alex-pumari-diaz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=simpleicons&logoColor=white&color=0077b5&labelColor=0077b5" alt="LinkedIn">
+   </a>
+    <a href="http://alexpumaridev.com.ar/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-azulvioleta?style=for-the-badge&logo=firefox-browser&logoColor=white&color=5a4fcf&labelColor=5a4fcf" alt="Portafolio Web">
+   </a>
+  </div>
+  <br>
   <img src="https://raw.githubusercontent.com/AlexRubenPumari/AlexRubenPumari/master/cover.png" />
 </div>
 
