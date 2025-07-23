@@ -64,25 +64,24 @@ Hola, soy Alex Pumari, de La Matanza, Buenos Aires. Soy desarrollador frontend y
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/AlexRubenPumari/react-to-do-list">Web de Lista de Tareas</a></h3>
-      <img src="https://raw.githubusercontent.com/AlexRubenPumari/react-to-do-list/master/cover.jpg">
+      <h3><a href="https://github.com/AlexRubenPumari/app-to-do-list">App Lista de Tareas</a></h3>
+      <img src="https://raw.githubusercontent.com/AlexRubenPumari/app-to-do-list/master/cover.jpg">
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" alt="SCSS">
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express"
       </p>
+      <p>Aplicación web para gestionar tareas desarrollada con React, Tailwind CSS, y Express.js. Implementa un sistema CRUD completo (Crear, Leer, Actualizar, Eliminar) para tareas, a través de una API RESTful.</p>
       <p>
-        Esta aplicación, desarrollada con React, HTML y SCSS, te permite gestionar tus tareas de forma sencilla y eficiente. Puedes agregar, editar, eliminar y marcar tareas como completadas.
+        <a href="https://app-to-do-list-theta.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Probar-violet?style=for-the-badge&logo=rotaryinternational&logoColor=white&color=6f42c1&labelColor=6f42c1" alt="Probar">
+        </a>
+        <a href="https://github.com/AlexRubenPumari/app-to-do-list" target="_blank">
+          <img src="https://img.shields.io/badge/Código-violet?style=for-the-badge&logo=github&logoColor=white&color=6f42c1&labelColor=6f42c1" alt="Código">
+        </a>
       </p>
-<p>
-  <a href="https://alexrubenpumari.github.io/react-to-do-list/" target="_blank">
-    <img src="https://img.shields.io/badge/Probar-violet?style=for-the-badge&logo=rotaryinternational&logoColor=white&color=6f42c1&labelColor=6f42c1" alt="Probar">
-  </a>
-  <a href="https://github.com/AlexRubenPumari/react-to-do-list" target="_blank">
-    <img src="https://img.shields.io/badge/Código-violet?style=for-the-badge&logo=github&logoColor=white&color=6f42c1&labelColor=6f42c1" alt="Código">
-  </a>
-</p>
     </td>
     <td width="50%" align="center">
       <h3><a href="https://github.com/AlexRubenPumari/react-movie-api">Web de API de Películas</a></h3>
