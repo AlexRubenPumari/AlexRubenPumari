@@ -65,7 +65,7 @@ Hola, soy Alex Pumari, de La Matanza, Buenos Aires. Soy desarrollador frontend y
   <tr>
     <td width="50%" align="center">
       <h3><a href="https://github.com/AlexRubenPumari/app-to-do-list">App Lista de Tareas</a></h3>
-      <img src="https://raw.githubusercontent.com/AlexRubenPumari/app-to-do-list/master/cover.jpg">
+      <img src="https://raw.githubusercontent.com/AlexRubenPumari/app-to-do-list/master/readme/img1.jpg">
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
@@ -84,22 +84,22 @@ Hola, soy Alex Pumari, de La Matanza, Buenos Aires. Soy desarrollador frontend y
       </p>
     </td>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/AlexRubenPumari/react-movie-api">Web de API de Películas</a></h3>
-      <img src="https://raw.githubusercontent.com/AlexRubenPumari/react-movie-api/master/cover.jpg">
+      <h3><a href="https://github.com/AlexRubenPumari/react-product-calculator">Calculador de Productos</a></h3>
+      <img src="https://raw.githubusercontent.com/AlexRubenPumari/react-product-calculator/master/readme/img1.jpg">
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" alt="SCSS">
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript">
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
       </p>
       <p>
-        Aplicación React que consume la API de TheMovieDB, con efectos de partículas de particles.js y optimización de peticiones con just-debounce-it. Estilizada con SCSS/Sass e incluye modo oscuro.
+        Aplicación web construida con React y estilizada con Tailwind CSS para gestionar productos. Incluye funcionalidades CRUD, cálculo automático de precios totales y almacenamiento local mediante IndexedDB.
       </p>
 <p>
-  <a href="https://alexrubenpumari.github.io/react-movie-api/" target="_blank">
+  <a href="https://alexrubenpumari.github.io/react-product-calculator/" target="_blank">
     <img src="https://img.shields.io/badge/Probar-violet?style=for-the-badge&logo=rotaryinternational&logoColor=white&color=6f42c1&labelColor=6f42c1" alt="Probar">
   </a>
-  <a href="https://github.com/AlexRubenPumari/react-movie-api" target="_blank">
+  <a href="https://github.com/AlexRubenPumari/react-product-calculator" target="_blank">
     <img src="https://img.shields.io/badge/Código-violet?style=for-the-badge&logo=github&logoColor=white&color=6f42c1&labelColor=6f42c1" alt="Código">
   </a>
 </p>
