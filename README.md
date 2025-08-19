@@ -12,7 +12,7 @@
    </a>
   </div>
   <br>
-  <img src="https://raw.githubusercontent.com/AlexRubenPumari/AlexRubenPumari/master/cover.png" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiArPlxzbyW9nh5rHCBXU6kZXHQVWwbPEzDNmXojWM5Dt58M92Cy8PwJPJE878uW3t5B2Lry9dTueKhFNXLiy9aTQDyqWtEGJnA_gXV-0cpmGg51GIzOE5HuVy4UgJOdevuEzP0gne2NgE/s1600/programando.gif" />
 </div>
 
 ## 👤 Sobre mi
