@@ -51,6 +51,10 @@ Hola, soy Alex Pumari, de La Matanza, Buenos Aires. Soy desarrollador frontend y
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript" />
         <br><sub><b>JavaScript</b></sub>
       </td>
+       <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript" />
+        <br><sub><b>TypeScript</b></sub>
+      </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React" />
         <br><sub><b>React</b></sub>
