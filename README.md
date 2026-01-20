@@ -16,16 +16,18 @@
 </div>
 
 ## 👤 Sobre mi
-Soy Desarrollador Frontend y Técnico en Análisis, Desarrollo y Programación de Aplicaciones. Me especializo en construir interfaces modernas, eficientes y centradas en la experiencia del usuario, utilizando tecnologías actuales y buenas prácticas del ecosistema frontend.
+Soy Desarrollador Full Stack y Técnico en Análisis, Desarrollo y Programación de Aplicaciones, con experiencia en el desarrollo de aplicaciones web tanto en frontend como en backend. Mi interés por la programación comenzó en la secundaria y fue evolucionando de manera constante a lo largo del tiempo.
 
-Me interesa seguir creciendo profesionalmente, trabajar en equipo y explorar nuevas herramientas y metodologías que me permitan aportar soluciones de calidad. Estoy buscando mi primera experiencia laboral para demostrar mis habilidades, aprender de profesionales del sector y contribuir de manera activa a nuevos proyectos.
+Inicié mi camino de forma autodidacta, explorando contenidos y tutoriales en plataformas como YouTube, y dando mis primeros pasos a través del desarrollo de videojuegos, lo que me permitió fortalecer la lógica, la resolución de problemas y el pensamiento analítico. Con el tiempo, la curiosidad por comprender cómo funcionan las aplicaciones por dentro me llevó a capacitarme de manera formal, consolidando así mi orientación hacia el desarrollo web y el trabajo full stack.
+
+Hoy aplico esa misma curiosidad y constancia tanto en el aprendizaje continuo como en el trabajo en equipo, con el objetivo de mejorar la calidad de las soluciones que desarrollo, seguir creciendo como profesional y aportar valor en cada proyecto en el que participo.
 
 <div>
   <ul>
   <li>💡 Tecnologías favoritas — TypeScript, React, TailwindCSS</li>
   <li>📧 Correo de contacto — <a href="mailto:alexpumari0@gmail.com">alexpumari0@gmail.com</a></li>
   <li>🌐 Portafolio web — www.alexpumaridev.com.ar</li>
-  <li>📚 Canal de YouTube — ¡Suscribite a <a href="https://www.youtube.com/@base_de_datos1">Álgebra Relacional</a>!</li>
+  <li>📚 Canal de YouTube — ¡Suscribite a <a href="https://www.youtube.com/@dev-con-alex">Dev con Alex</a>!</li>
   </ul>
 </div>
 <br>
