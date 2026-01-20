@@ -35,37 +35,47 @@ Hoy aplico esa misma curiosidad y constancia tanto en el aprendizaje continuo co
 ## 🛠️ Tecnologías que uso
 <div align="center">
   <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML5" />
-        <br><sub><b>HTML5</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS3" />
-        <br><sub><b>CSS3</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" alt="Sass" />
-        <br><sub><b>Sass</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="60" alt="TailwindCSS" />
-        <br><sub><b>Tailwind</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript" />
-        <br><sub><b>JavaScript</b></sub>
-      </td>
-       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript" />
-        <br><sub><b>TypeScript</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React" />
-        <br><sub><b>React</b></sub>
-      </td>
-    </tr>
-  </table>
+  <!-- FILA 1 -->
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML5" />
+      <br><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS3" />
+      <br><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" alt="Sass" />
+      <br><sub><b>Sass</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="60" alt="TailwindCSS" />
+      <br><sub><b>Tailwind</b></sub>
+    </td>
+  </tr>
+
+  <!-- FILA 2 -->
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript" />
+      <br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript" />
+      <br><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React" />
+      <br><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/express/6B7280" width="60" alt="Express" />
+      <br><sub><b>Express</b></sub>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 
